@@ -1,4 +1,4 @@
-# Game_Jam_Nov_2023
+# Angel's Descent
 
 Code and assets from a recent game jam. The theme was "descent".
 
